@@ -6,8 +6,8 @@
 ## Conjuntos de Datos Analizados
 Descripción breve de los cuatro conjuntos de datos analizados.
 
-- Dataset 1:
-- Dataset 2:
+- Churn Prediction Gym Members Dataset:
+- Coffee Quality Institute Dataset:
 - Dataset 3:
 - Dataset 4:
 
