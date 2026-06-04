@@ -6,10 +6,10 @@
 ## Conjuntos de Datos Analizados
 Descripción breve de los cuatro conjuntos de datos analizados.
 
-- Churn Prediction Gym Members Dataset:
-- Coffee Quality Institute Dataset:
-- Dataset 3:
-- Dataset 4:
+- Churn Prediction Gym Members:
+- Coffee Quality Institute Arabica:
+- Bike Sharing:
+- Air Quality:
 
 ## Resumen del EDA Inicial
 
