@@ -14,11 +14,6 @@ Descripción breve de los cuatro conjuntos de datos analizados.
 
 - Air Quality: El dataset contiene registros horarios de contaminantes atmosféricos y datos meteorológicos capturados por sensores de gases en una ciudad italiana, facilitando el estudio de la calidad del aire y los factores que influyen en ella.
 
-- Churn Prediction Gym Members:
-- Coffee Quality Institute Arabica:
-- Bike Sharing:
-- Air Quality:
-
 ## Resumen del EDA Inicial
 
 - Churn Prediction Gym Members:
@@ -41,7 +36,7 @@ Razones por las cuales se eligió este problema.
 ## Instrucciones para Ejecutar
 
 1. Clonar el repositorio.
-2. Instalar las dependencias necesarias.
+2. Instalar las dependencias necesarias (Pandas, Numpy, Seaborn Matplotlib).
 3. Abrir y ejecutar los notebooks correspondientes.
 4. Revisar los resultados obtenidos.
 
