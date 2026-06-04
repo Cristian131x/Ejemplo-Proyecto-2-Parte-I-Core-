@@ -1,7 +1,7 @@
 # Análisis Inicial y Selección de Problema
 
 ## Descripción
-[Breve descripción del objetivo del proyecto y su importancia]
+Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (EDA) sobre distintos conjuntos de datos para identificar sus características, calidad y posibles desafíos. A partir de este análisis, se selecciona un conjunto de datos y una problemática específica para desarrollar en etapas posteriores, justificando su relevancia y potencial de aplicación en técnicas de ciencia de datos y aprendizaje automático.
 
 ## Conjuntos de Datos Analizados
 Descripción breve de los cuatro conjuntos de datos analizados.
